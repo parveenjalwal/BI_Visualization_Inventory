@@ -30,7 +30,8 @@ This dashboard features:
 ---
 
 ## 🖼️ Dashboard Preview  
-![YouTube Channels Insights Dashboard](Screenshot-2025-11-21-204128.jpg)
+![YouTube Channels Insights Dashboard](Dashboard_image.png
+)
 
 ---
 
