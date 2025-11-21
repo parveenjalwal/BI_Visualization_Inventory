@@ -30,7 +30,7 @@ This structured dataset enables exploration of performance trends (over time, by
 
 ## 🖼️ Dashboard Preview
 
-![Agents Calls Performance Data Dashboard](Screenshot-2025-11-21-211056.png)
+![Agents Calls Performance Data Dashboard](Dashboard_image.png)
 
 ---
 
