@@ -40,5 +40,5 @@ This data supports deep dives into how lifestyle affects health across segments 
 A motivated data enthusiast, **Parveen Jalwal**, focused on transforming complex datasets into actionable business intelligence. Actively seeking opportunities in analytics and business intelligence roles, with a portfolio that demonstrates insight generation and effective storytelling.
 
 **Let's connect for collaborations or opportunities:**
-- 📧 Gmail: `your.email@gmail.com`
+- 📧 Gmail: `parveenjangra0952@gmail.com`
 * **Connect with me on LinkedIn:** [Parveen Jalwal](https://www.linkedin.com/in/parveen-jalwal-201a2a302)
